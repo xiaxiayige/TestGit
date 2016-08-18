@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         //新增第一行
         // zhangqilin 分支 新增
         TextView textView=new TextView(this);
+        textView.setText("github");
     }
 }
