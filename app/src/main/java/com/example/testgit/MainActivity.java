@@ -12,14 +12,5 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //本地修改MainActiviy 提交到服务器
-        //这是我第一次在服务端修改的内容
-        //这是我本地修改的内容哦~~~~~~~~~~~
-        //我也是第二次在本地修改内容
-        //第二次在服务端修改内容
-        //刚刚我切换了分支
-        //阿达撒打算的阿萨德撒的as啊 zql分支
-        //testAAA分支 编辑
-        //AAA分支再次提交
     }
 }
