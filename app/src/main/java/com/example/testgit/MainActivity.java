@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         TextView textView=new TextView(this);
         textView.setText("github");
         textView.setText("bbbbb");
+        textView.setText("ccccc");
         textView.setText("aaaaaaaaaaaaaaaaaaaaaaa");
     }
 }
