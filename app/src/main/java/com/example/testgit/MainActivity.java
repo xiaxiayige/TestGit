@@ -49,6 +49,6 @@ public class MainActivity extends AppCompatActivity {
         }
         data = new LineChartData(lines);
         chart.setLineChartData(data);
-        //哈哈哈
+        //哈哈哈 1
     }
 }
